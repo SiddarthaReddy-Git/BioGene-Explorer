@@ -45,6 +45,59 @@ const PAGE_TITLES: Record<PageId, string> = {
   about: 'Methodology & About',
 };
 
+interface BackdropConfig {
+  src: string;
+  veilClass: string;
+  transformClass: string;
+}
+
+const PAGE_BACKGROUNDS: Record<PageId, BackdropConfig> = {
+  home: {
+    src: '/src/assets/images/bg_dna_helix_1794923796714.jpg',
+    veilClass: 'from-sky-100/15 via-white/10 to-indigo-100/20',
+    transformClass: 'object-center scale-100',
+  },
+  dashboard: {
+    src: '/src/assets/images/bg_bio_lattice_1794923799965.jpg',
+    veilClass: 'from-cyan-50/20 via-white/15 to-violet-100/20',
+    transformClass: 'object-center scale-100',
+  },
+  diseases: {
+    src: '/src/assets/images/bg_cellular_microscopy_1794923798069.jpg',
+    veilClass: 'from-teal-50/15 via-white/15 to-pink-100/20',
+    transformClass: 'object-center scale-100',
+  },
+  network: {
+    src: '/src/assets/images/bg_network_constellation_1794923797454.jpg',
+    veilClass: 'from-sky-50/18 via-white/12 to-indigo-100/20',
+    transformClass: 'object-center scale-100',
+  },
+  'gene-details': {
+    src: '/src/assets/images/bg_chromatin_crystal_1794923799623.jpg',
+    veilClass: 'from-sky-50/15 via-white/12 to-purple-100/18',
+    transformClass: 'object-center scale-100',
+  },
+  analysis: {
+    src: '/src/assets/images/bg_network_constellation_1794923797454.jpg',
+    veilClass: 'from-violet-100/22 via-white/15 to-cyan-100/20',
+    transformClass: 'object-right-top scale-105',
+  },
+  dataset: {
+    src: '/src/assets/images/bg_bio_lattice_1794923799965.jpg',
+    veilClass: 'from-amber-50/15 via-white/15 to-sky-100/22',
+    transformClass: 'object-bottom scale-105',
+  },
+  about: {
+    src: '/src/assets/images/bg_chromatin_crystal_1794923799623.jpg',
+    veilClass: 'from-indigo-50/18 via-white/15 to-teal-100/20',
+    transformClass: 'object-bottom scale-105',
+  },
+};
+
+const UNIQUE_BACKGROUNDS = Array.from(
+  new Set(Object.values(PAGE_BACKGROUNDS).map((b) => b.src)),
+);
+
 interface AppShellProps {
   activePage: PageId;
   onNavigate: (page: PageId) => void;
@@ -68,8 +121,37 @@ export function AppShell({
     setMobileOpen(false);
   };
 
+  const activeBg = PAGE_BACKGROUNDS[activePage];
+
   return (
     <div className="relative flex min-h-screen text-slate-900">
+      {/* Page-Specific Luminous Biological Liquid-Glass Backdrop */}
+      <div
+        aria-hidden="true"
+        className="pointer-events-none fixed inset-0 -z-10 overflow-hidden bg-gradient-to-br from-sky-100 via-indigo-50 to-cyan-100"
+      >
+        {UNIQUE_BACKGROUNDS.map((src) => {
+          const isCurrent = activeBg.src === src;
+          return (
+            <img
+              key={src}
+              src={src}
+              alt=""
+              referrerPolicy="no-referrer"
+              onError={(e) => {
+                (e.currentTarget as HTMLImageElement).style.display = 'none';
+              }}
+              className={`absolute inset-0 h-full w-full object-cover transition-all duration-700 ease-out ${
+                isCurrent ? `opacity-95 ${activeBg.transformClass}` : 'opacity-0 scale-100'
+              }`}
+            />
+          );
+        })}
+        <div
+          className={`absolute inset-0 bg-gradient-to-br transition-colors duration-500 ${activeBg.veilClass}`}
+        />
+      </div>
+
       {/* Mobile Drawer Backdrop */}
       {mobileOpen && (
         <div
@@ -80,11 +162,11 @@ export function AppShell({
 
       {/* Liquid Glass Collapsible Sidebar */}
       <aside
-        className={`fixed inset-y-0 left-0 z-50 flex flex-col border-r border-white/75 bg-white/55 backdrop-blur-2xl transition-[width,transform] duration-200 lg:sticky lg:top-0 lg:h-screen ${
+        className={`fixed inset-y-0 left-0 z-50 flex flex-col border-r border-white/75 bg-white/42 backdrop-blur-2xl transition-[width,transform] duration-200 lg:sticky lg:top-0 lg:h-screen ${
           collapsed ? 'lg:w-[78px]' : 'lg:w-64'
         } ${mobileOpen ? 'w-64 translate-x-0' : '-translate-x-full lg:translate-x-0'}`}
         style={{
-          boxShadow: 'inset -1px 0 0 rgba(255,255,255,0.8), 8px 0 32px -12px rgba(15,23,42,0.1)',
+          boxShadow: 'inset -1px 0 0 rgba(255,255,255,0.82), 8px 0 32px -12px rgba(15,23,42,0.1)',
         }}
       >
         <div className="flex h-16 items-center justify-between border-b border-slate-900/10 px-4">
@@ -165,7 +247,7 @@ export function AppShell({
       {/* Main Content Frame */}
       <div className="flex min-w-0 flex-1 flex-col">
         {/* Liquid Glass Top Header */}
-        <header className="sticky top-0 z-30 flex h-16 items-center justify-between gap-8 border-b border-white/75 bg-white/45 px-4 backdrop-blur-2xl sm:px-6">
+        <header className="sticky top-0 z-30 flex h-16 items-center justify-between gap-8 border-b border-white/75 bg-white/35 px-4 backdrop-blur-2xl sm:px-6">
           <div className="flex min-w-0 items-center gap-3">
             <button
               type="button"
