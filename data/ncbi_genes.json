@@ -1,0 +1,482 @@
+{
+  "207": {
+    "gene_id": "207",
+    "symbol": "AKT1",
+    "description": "AKT serine/threonine kinase 1",
+    "chromosome": "14",
+    "map_location": "14q32.33",
+    "aliases": "AKT, PKB, PKB-ALPHA, PRKBA, RAC, RAC-ALPHA",
+    "mim": [
+      "164730"
+    ],
+    "summary": "This gene encodes one of the three members of the human AKT serine-threonine protein kinase family which are often referred to as protein kinase B alpha, beta, and gamma. These highly similar AKT proteins all have an N-terminal pleckstrin homology domain, a serine/threonine-specific kinase domain and a C-terminal regulatory domain. These proteins are phosphorylated by phosphoinositide 3-kinase (PI3K). AKT/PI3K forms a key component of many signalling pathways that involve the binding of membrane-bound ligands such as receptor tyrosine kinases, G-protein coupled receptors, and integrin-linked kinase. These AKT proteins therefore regulate a wide variety of cellular functions including cell proliferation, survival, metabolism, and angiogenesis in both normal and malignant cells. AKT proteins are recruited to the cell membrane by phosphatidylinositol 3,4,5-trisphosphate (PIP3) after phosphorylation of phosphatidylinositol 4,5-bisphosphate (PIP2) by PI3K. Subsequent phosphorylation of both threonine residue 308 and serine residue 473 is required for full activation of the AKT1 protein encoded by this gene. Phosphorylation of additional residues also occurs, for example, in response to insulin growth factor-1 and epidermal growth factor. Protein phosphatases act as negative regulators of AKT proteins by dephosphorylating AKT or PIP3. The PI3K/AKT signalling pathway is crucial for tumor cell survival. Survival factors can suppress apoptosis in a transcription-independent manner by activating AKT1 which then phosphorylates and inactivates components of the apoptotic machinery. AKT proteins also participate in the mammalian target of rapamycin (mTOR) signalling pathway which controls the assembly of the eukaryotic translation initiation factor 4F (eIF4E) complex and this pathway, in addition to responding to extracellular signals from growth factors and cytokines, is disregulated in many cancers. Mutations in this gene are associated with multiple types of cancer and excessive tissue growth including Proteus syndrome and Cowden syndrome 6, and breast, colorectal, and ovarian cancers. Multiple alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Jul 2020]"
+  },
+  "338": {
+    "gene_id": "338",
+    "symbol": "APOB",
+    "description": "apolipoprotein B",
+    "chromosome": "2",
+    "map_location": "2p24.1",
+    "aliases": "FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48",
+    "mim": [
+      "107730"
+    ],
+    "summary": "This gene product is the main apolipoprotein of chylomicrons and low density lipoproteins (LDL), and is the ligand for the LDL receptor. It occurs in plasma as two main isoforms, apoB-48 and apoB-100: the former is synthesized exclusively in the gut and the latter in the liver. The intestinal and the hepatic forms of apoB are encoded by a single gene from a single, very long mRNA. The two isoforms share a common N-terminal sequence. The shorter apoB-48 protein is produced after RNA editing of the apoB-100 transcript at residue 2180 (CAA->UAA), resulting in the creation of a stop codon, and early translation termination. Mutations in this gene or its regulatory region cause hypobetalipoproteinemia, normotriglyceridemic hypobetalipoproteinemia, and hypercholesterolemia due to ligand-defective apoB, diseases affecting plasma cholesterol and apoB levels. [provided by RefSeq, Dec 2019]"
+  },
+  "348": {
+    "gene_id": "348",
+    "symbol": "APOE",
+    "description": "apolipoprotein E",
+    "chromosome": "19",
+    "map_location": "19q13.32",
+    "aliases": "AD2, APO-E, ApoE4, LDLCQ5, LPG",
+    "mim": [
+      "107741"
+    ],
+    "summary": "The protein encoded by this gene is a major apoprotein of the chylomicron. It binds to a specific liver and peripheral cell receptor, and is essential for the normal catabolism of triglyceride-rich lipoprotein constituents. This gene maps to chromosome 19 in a cluster with the related apolipoprotein C1 and C2 genes. Mutations in this gene result in familial dysbetalipoproteinemia, or type III hyperlipoproteinemia (HLP III), in which increased plasma cholesterol and triglycerides are the consequence of impaired clearance of chylomicron and VLDL remnants. [provided by RefSeq, Jun 2016]"
+  },
+  "351": {
+    "gene_id": "351",
+    "symbol": "APP",
+    "description": "amyloid beta precursor protein",
+    "chromosome": "21",
+    "map_location": "21q21.3",
+    "aliases": "AAA, ABETA, ABPP, AD1, APPI, CTFgamma, CVAP, PN-II, PN2, alpha-sAPP, preA4",
+    "mim": [
+      "104760"
+    ],
+    "summary": "This gene encodes a cell surface receptor and transmembrane precursor protein that is cleaved by secretases to form a number of peptides. Some of these peptides are secreted and can bind to the acetyltransferase complex APBB1/TIP60 to promote transcriptional activation, while others form the protein basis of the amyloid plaques found in the brains of patients with Alzheimer disease. In addition, two of the peptides are antimicrobial peptides, having been shown to have bacteriocidal and antifungal activities. Mutations in this gene have been implicated in autosomal dominant Alzheimer disease and cerebroarterial amyloidosis (cerebral amyloid angiopathy). Multiple transcript variants encoding several different isoforms have been found for this gene. [provided by RefSeq, Aug 2014]"
+  },
+  "472": {
+    "gene_id": "472",
+    "symbol": "ATM",
+    "description": "ATM serine/threonine kinase",
+    "chromosome": "11",
+    "map_location": "11q22.3",
+    "aliases": "AT1, ATA, ATC, ATD, ATDC, ATE, TEL1, TELO1",
+    "mim": [
+      "607585"
+    ],
+    "summary": "The protein encoded by this gene belongs to the PI3/PI4-kinase family. This protein is an important cell cycle checkpoint kinase that phosphorylates; thus, it functions as a regulator of a wide variety of downstream proteins, including tumor suppressor proteins p53 and BRCA1, checkpoint kinase CHK2, checkpoint proteins RAD17 and RAD9, and DNA repair protein NBS1. This protein and the closely related kinase ATR are thought to be master controllers of cell cycle checkpoint signaling pathways that are required for cell response to DNA damage and for genome stability. Mutations in this gene are associated with ataxia telangiectasia, an autosomal recessive disorder. [provided by RefSeq, Aug 2010]"
+  },
+  "672": {
+    "gene_id": "672",
+    "symbol": "BRCA1",
+    "description": "BRCA1 DNA repair associated",
+    "chromosome": "17",
+    "map_location": "17q21.31",
+    "aliases": "BRCAI, BRCC1, BROVCA1, FANCS, IRIS, PNCA4, PPP1R53, PSCP, RNF53",
+    "mim": [
+      "113705"
+    ],
+    "summary": "This gene encodes a 190 kD nuclear phosphoprotein that plays a role in maintaining genomic stability, and it also acts as a tumor suppressor. The BRCA1 gene contains 22 exons spanning about 110 kb of DNA. The encoded protein combines with other tumor suppressors, DNA damage sensors, and signal transducers to form a large multi-subunit protein complex known as the BRCA1-associated genome surveillance complex (BASC). This gene product associates with RNA polymerase II, and through the C-terminal domain, also interacts with histone deacetylase complexes. This protein thus plays a role in transcription, DNA repair of double-stranded breaks, and recombination. Mutations in this gene are responsible for approximately 40% of inherited breast cancers and more than 80% of inherited breast and ovarian cancers. Alternative splicing plays a role in modulating the subcellular localization and physiological function of this gene. Many alternatively spliced transcript variants, some of which are disease-associated mutations, have been described for this gene, but the full-length natures of only some of these variants has been described. A related pseudogene, which is also located on chromosome 17, has been identified. [provided by RefSeq, May 2020]"
+  },
+  "675": {
+    "gene_id": "675",
+    "symbol": "BRCA2",
+    "description": "BRCA2 DNA repair associated",
+    "chromosome": "13",
+    "map_location": "13q13.1",
+    "aliases": "BRCC2, BROVCA2, FACD, FAD, FAD1, FANCD, FANCD1, GLM3, PNCA2, XRCC11",
+    "mim": [
+      "600185"
+    ],
+    "summary": "The product of this gene in involved in maintenance of genome stability. It is involved in double-strand break repair pathways during mitotic and meiotic homologous recombination and functions in protecting DNA replication forks. The encoded protein contains sites for interactions with PALB2 and EMSY and an N-terminal DNA binding domain. It also contains a RAD51 binding domain with multiple components. It has multiple BRC repeats, an alpha helix domain, oligonucleotide binding folds, and a tower-like domain. It has a nuclear localization signal and a phosphorylation site for cyclin-dependent kinase. The C-terminus of the protein can bind single-stranded and double-stranded DNA. The product of this gene interacts with multiple proteins, including RAD51. It is involved in recruiting RAD51 filaments to DNA double-strand break sites and also in cytoplasmic division. It also acts as a tumor suppressor. Mutations in this gene or decreased expression have been implicated in multiple tumor types, including breast, ovarian, pancreatic, prostate and other cancers. [provided by RefSeq, May 2026]"
+  },
+  "1191": {
+    "gene_id": "1191",
+    "symbol": "CLU",
+    "description": "clusterin",
+    "chromosome": "8",
+    "map_location": "8p21.1",
+    "aliases": "AAG4, APO-J, APOJ, CLI, CLU1, CLU2, KUB1, NA1/NA2, SGP-2, SGP2, SP-40, TRPM-2",
+    "mim": [
+      "185430"
+    ],
+    "summary": "The protein encoded by this gene is a secreted chaperone that can under some stress conditions also be found in the cell cytosol. It has been suggested to be involved in several basic biological events such as cell death, tumor progression, and neurodegenerative disorders. Alternate splicing results in both coding and non-coding variants.[provided by RefSeq, May 2011]"
+  },
+  "1636": {
+    "gene_id": "1636",
+    "symbol": "ACE",
+    "description": "angiotensin I converting enzyme",
+    "chromosome": "17",
+    "map_location": "17q23.3",
+    "aliases": "ACE1, CD143, DCP, DCP1",
+    "mim": [
+      "106180"
+    ],
+    "summary": "This gene encodes an enzyme involved in blood pressure regulation and electrolyte balance. It catalyzes the conversion of angiotensin I into a physiologically active peptide angiotensin II. Angiotensin II is a potent vasopressor and aldosterone-stimulating peptide that controls blood pressure and fluid-electrolyte balance. This angiotensin converting enzyme (ACE) also inactivates the vasodilator protein, bradykinin. Accordingly, the encoded enzyme increases blood pressure and is a drug target of ACE inhibitors, which are often prescribed to reduce blood pressure. This enzyme additionally plays a role in fertility through its ability to cleave and release GPI-anchored membrane proteins in spermatozoa. Many studies have associated the presence or absence of a 287 bp Alu repeat element in this gene with the levels of circulating enzyme. This polymorphism, as well as mutations in this gene, have been implicated in a wide variety of diseases including cardiovascular pathophysiologies, psoriasis, renal disease, stroke, and Alzheimer's disease. Regulation of the homologous ACE2 gene may be involved in progression of disease caused by several human coronaviruses, including SARS-CoV and SARS-CoV-2. Alternative splicing results in multiple transcript variants encoding both somatic (sACE) and male-specific testicular (tACE) isoforms. [provided by RefSeq, Sep 2020]"
+  },
+  "2064": {
+    "gene_id": "2064",
+    "symbol": "ERBB2",
+    "description": "erb-b2 receptor tyrosine kinase 2",
+    "chromosome": "17",
+    "map_location": "17q12",
+    "aliases": "CD340, HER-2, HER-2/neu, HER2, MLN 19, MLN-19, NEU, NGL, TKR1, VSCN2, c-ERB-2, c-ERB2, p185(erbB2)",
+    "mim": [
+      "164870"
+    ],
+    "summary": "This gene encodes a member of the epidermal growth factor (EGF) receptor family of receptor tyrosine kinases. This protein has no ligand binding domain of its own and therefore cannot bind growth factors. However, it does bind tightly to other ligand-bound EGF receptor family members to form a heterodimer, stabilizing ligand binding and enhancing kinase-mediated activation of downstream signalling pathways, such as those involving mitogen-activated protein kinase and phosphatidylinositol-3 kinase. Allelic variations at amino acid positions 654 and 655 of isoform a (positions 624 and 625 of isoform b) have been reported, with the most common allele, Ile654/Ile655, shown here. Amplification and/or overexpression of this gene has been reported in numerous cancers, including breast and ovarian tumors. Alternative splicing results in several additional transcript variants, some encoding different isoforms and others that have not been fully characterized. [provided by RefSeq, Jul 2008]"
+  },
+  "2099": {
+    "gene_id": "2099",
+    "symbol": "ESR1",
+    "description": "estrogen receptor 1",
+    "chromosome": "6",
+    "map_location": "6q25.1-q25.2",
+    "aliases": "ER, ESR, ESRA, ESTRR, Era, NR3A1",
+    "mim": [
+      "133430"
+    ],
+    "summary": "This gene encodes an estrogen receptor and ligand-activated transcription factor. The canonical protein contains an N-terminal ligand-independent transactivation domain, a central DNA binding domain, a hinge domain, and a C-terminal ligand-dependent transactivation domain. The protein localizes to the nucleus where it may form either a homodimer or a heterodimer with estrogen receptor 2. The protein encoded by this gene regulates the transcription of many estrogen-inducible genes that play a role in growth, metabolism, sexual development, gestation, and other reproductive functions and is expressed in many non-reproductive tissues. The receptor encoded by this gene plays a key role in breast cancer, endometrial cancer, and osteoporosis. This gene is reported to have dozens of transcript variants due to the use of alternate promoters and alternative splicing, however, the full-length nature of many of these variants remain uncertain. [provided by RefSeq, Jul 2020]"
+  },
+  "2629": {
+    "gene_id": "2629",
+    "symbol": "GBA1",
+    "description": "glucosylceramidase beta 1",
+    "chromosome": "1",
+    "map_location": "1q22",
+    "aliases": "GBA, GCB, GLUC",
+    "mim": [
+      "606463"
+    ],
+    "summary": "This gene encodes a lysosomal membrane protein that cleaves the beta-glucosidic linkage of glycosylceramide, an intermediate in glycolipid metabolism. Mutations in this gene cause Gaucher disease, a lysosomal storage disease characterized by an accumulation of glucocerebrosides. A related pseudogene is approximately 12 kb downstream of this gene on chromosome 1. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2010]"
+  },
+  "2932": {
+    "gene_id": "2932",
+    "symbol": "GSK3B",
+    "description": "glycogen synthase kinase 3 beta",
+    "chromosome": "3",
+    "map_location": "3q13.33",
+    "aliases": "",
+    "mim": [
+      "605004"
+    ],
+    "summary": "The protein encoded by this gene is a serine-threonine kinase belonging to the glycogen synthase kinase subfamily. It is a negative regulator of glucose homeostasis and is involved in energy metabolism, inflammation, ER-stress, mitochondrial dysfunction, and apoptotic pathways. Defects in this gene have been associated with Parkinson disease and Alzheimer disease. [provided by RefSeq, Aug 2017]"
+  },
+  "3569": {
+    "gene_id": "3569",
+    "symbol": "IL6",
+    "description": "interleukin 6",
+    "chromosome": "7",
+    "map_location": "7p15.3",
+    "aliases": "BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6",
+    "mim": [
+      "147620"
+    ],
+    "summary": "This gene encodes a cytokine that functions in inflammation and the maturation of B cells. In addition, the encoded protein has been shown to be an endogenous pyrogen capable of inducing fever in people with autoimmune diseases or infections. The protein is primarily produced at sites of acute and chronic inflammation, where it is secreted into the serum and induces a transcriptional inflammatory response through interleukin 6 receptor, alpha. The functioning of this gene is implicated in a wide variety of inflammation-associated disease states, including suspectibility to diabetes mellitus and systemic juvenile rheumatoid arthritis. Elevated levels of the encoded protein have been found in virus infections, including COVID-19 (disease caused by SARS-CoV-2). [provided by RefSeq, Aug 2020]"
+  },
+  "3630": {
+    "gene_id": "3630",
+    "symbol": "INS",
+    "description": "insulin",
+    "chromosome": "11",
+    "map_location": "11p15.5",
+    "aliases": "IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4",
+    "mim": [
+      "176730"
+    ],
+    "summary": "This gene encodes insulin, a peptide hormone that plays a vital role in the regulation of carbohydrate and lipid metabolism. After removal of the precursor signal peptide, proinsulin is post-translationally cleaved into three peptides: the B chain and A chain peptides, which are covalently linked via two disulfide bonds to form insulin, and C-peptide. Binding of insulin to the insulin receptor (INSR) stimulates glucose uptake. A multitude of mutant alleles with phenotypic effects have been identified, including insulin-dependent diabetes mellitus, permanent neonatal diabetes diabetes mellitus, maturity-onset diabetes of the young type 10 and hyperproinsulinemia. There is a read-through gene, INS-IGF2, which overlaps with this gene at the 5' region and with the IGF2 gene at the 3' region. [provided by RefSeq, May 2020]"
+  },
+  "3643": {
+    "gene_id": "3643",
+    "symbol": "INSR",
+    "description": "insulin receptor",
+    "chromosome": "19",
+    "map_location": "19p13.2",
+    "aliases": "CD220, HHF5",
+    "mim": [
+      "147670"
+    ],
+    "summary": "This gene encodes a member of the receptor tyrosine kinase family of proteins. The encoded preproprotein is proteolytically processed to generate alpha and beta subunits that form a heterotetrameric receptor. Binding of insulin or other ligands to this receptor activates the insulin signaling pathway, which regulates glucose uptake and release, as well as the synthesis and storage of carbohydrates, lipids and protein. Mutations in this gene underlie the inherited severe insulin resistance syndromes including type A insulin resistance syndrome, Donohue syndrome and Rabson-Mendenhall syndrome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Oct 2015]"
+  },
+  "3667": {
+    "gene_id": "3667",
+    "symbol": "IRS1",
+    "description": "insulin receptor substrate 1",
+    "chromosome": "2",
+    "map_location": "2q36.3",
+    "aliases": "HIRS-1",
+    "mim": [
+      "147545"
+    ],
+    "summary": "This gene encodes a protein which is phosphorylated by insulin receptor tyrosine kinase. Mutations in this gene are associated with type II diabetes and susceptibility to insulin resistance. [provided by RefSeq, Nov 2009]"
+  },
+  "3767": {
+    "gene_id": "3767",
+    "symbol": "KCNJ11",
+    "description": "potassium inwardly rectifying channel subfamily J member 11",
+    "chromosome": "11",
+    "map_location": "11p15.1",
+    "aliases": "BIR, HHF2, IKATP, KIR6.2, MODY13, PHHI, PNDM2, TNDM3",
+    "mim": [
+      "600937"
+    ],
+    "summary": "Potassium channels are present in most mammalian cells, where they participate in a wide range of physiologic responses. The protein encoded by this gene is an integral membrane protein and inward-rectifier type potassium channel. The encoded protein, which has a greater tendency to allow potassium to flow into a cell rather than out of a cell, is controlled by G-proteins and is found associated with the sulfonylurea receptor SUR. Mutations in this gene are a cause of familial persistent hyperinsulinemic hypoglycemia of infancy (PHHI), an autosomal recessive disorder characterized by unregulated insulin secretion. Defects in this gene may also contribute to autosomal dominant non-insulin-dependent diabetes mellitus type II (NIDDM), transient neonatal diabetes mellitus type 3 (TNDM3), and permanent neonatal diabetes mellitus (PNDM). Multiple alternatively spliced transcript variants that encode different protein isoforms have been described for this gene. [provided by RefSeq, Oct 2009]"
+  },
+  "3949": {
+    "gene_id": "3949",
+    "symbol": "LDLR",
+    "description": "low density lipoprotein receptor",
+    "chromosome": "19",
+    "map_location": "19p13.2",
+    "aliases": "LDLCQ2",
+    "mim": [
+      "606945"
+    ],
+    "summary": "The low density lipoprotein receptor (LDLR) gene family consists of cell surface proteins involved in receptor-mediated endocytosis of specific ligands. The encoded protein is normally bound at the cell membrane, where it binds low density lipoprotein/cholesterol and is taken into the cell. Lysosomes release the cholesterol, which is made available for repression of microsomal enzyme 3-hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase, the rate-limiting step in cholesterol synthesis. At the same time, a reciprocal stimulation of cholesterol ester synthesis takes place. Mutations in this gene cause the autosomal dominant disorder, familial hypercholesterolemia. Alternate splicing results in multiple transcript variants.[provided by RefSeq, May 2022]"
+  },
+  "4137": {
+    "gene_id": "4137",
+    "symbol": "MAPT",
+    "description": "microtubule associated protein tau",
+    "chromosome": "17",
+    "map_location": "17q21.31",
+    "aliases": "DDPAC, FTD1, FTDP-17, MAPTL, MSTD, MTBT1, MTBT2, PPND, PPP1R103, TAU, Tau-PHF6, tau-40",
+    "mim": [
+      "157140"
+    ],
+    "summary": "This gene encodes the microtubule-associated protein tau (MAPT) whose transcript undergoes complex, regulated alternative splicing, giving rise to several mRNA species. MAPT transcripts are differentially expressed in the nervous system, depending on stage of neuronal maturation and neuron type. MAPT gene mutations have been associated with several neurodegenerative disorders such as Alzheimer's disease, Pick's disease, frontotemporal dementia, cortico-basal degeneration and progressive supranuclear palsy. [provided by RefSeq, Jul 2008]"
+  },
+  "4846": {
+    "gene_id": "4846",
+    "symbol": "NOS3",
+    "description": "nitric oxide synthase 3",
+    "chromosome": "7",
+    "map_location": "7q36.1",
+    "aliases": "EC-NOS, ECNOS, MYMY8, NOSIII, cNOS, eNOS",
+    "mim": [
+      "163729"
+    ],
+    "summary": "Nitric oxide is a reactive free radical which acts as a biologic mediator in several processes, including neurotransmission and antimicrobial and antitumoral activities. Nitric oxide is synthesized from L-arginine by nitric oxide synthases. Variations in this gene are associated with susceptibility to coronary spasm. Alternative splicing and the use of alternative promoters results in multiple transcript variants. [provided by RefSeq, Oct 2016]"
+  },
+  "5071": {
+    "gene_id": "5071",
+    "symbol": "PRKN",
+    "description": "parkin RBR E3 ubiquitin protein ligase",
+    "chromosome": "6",
+    "map_location": "6q26",
+    "aliases": "AR-JP, LPRS2, PARK2, PDJ",
+    "mim": [
+      "602544"
+    ],
+    "summary": "The precise function of this gene is unknown; however, the encoded protein is a component of a multiprotein E3 ubiquitin ligase complex that mediates the targeting of substrate proteins for proteasomal degradation. Mutations in this gene are known to cause Parkinson disease and autosomal recessive juvenile Parkinson disease. Alternative splicing of this gene produces multiple transcript variants encoding distinct isoforms. Additional splice variants of this gene have been described but currently lack transcript support. [provided by RefSeq, Jul 2008]"
+  },
+  "5290": {
+    "gene_id": "5290",
+    "symbol": "PIK3CA",
+    "description": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",
+    "chromosome": "3",
+    "map_location": "3q26.32",
+    "aliases": "CCM4, CLAPO, CLOVE, CWS5, HMH, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha",
+    "mim": [
+      "171834"
+    ],
+    "summary": "Phosphatidylinositol 3-kinase is composed of an 85 kDa regulatory subunit and a 110 kDa catalytic subunit. The protein encoded by this gene represents the catalytic subunit, which uses ATP to phosphorylate PtdIns, PtdIns4P and PtdIns(4,5)P2. This gene has been found to be oncogenic and has been implicated in cervical cancers. A pseudogene of this gene has been defined on chromosome 22. [provided by RefSeq, Apr 2016]"
+  },
+  "5468": {
+    "gene_id": "5468",
+    "symbol": "PPARG",
+    "description": "peroxisome proliferator activated receptor gamma",
+    "chromosome": "3",
+    "map_location": "3p25.2",
+    "aliases": "CIMT1, FPLD3, GLM1, NR1C3, PPARG1, PPARG2, PPARG5, PPARgamma",
+    "mim": [
+      "601487"
+    ],
+    "summary": "This gene encodes a member of the peroxisome proliferator-activated receptor (PPAR) subfamily of nuclear receptors. PPARs form heterodimers with retinoid X receptors (RXRs) and these heterodimers regulate transcription of various genes. Three subtypes of PPARs are known: PPAR-alpha, PPAR-delta, and PPAR-gamma. The protein encoded by this gene is PPAR-gamma and is a regulator of adipocyte differentiation. Additionally, PPAR-gamma has been implicated in the pathology of numerous diseases including obesity, diabetes, atherosclerosis and cancer. Alternatively spliced transcript variants that encode different isoforms have been described. [provided by RefSeq, Jul 2008]"
+  },
+  "5663": {
+    "gene_id": "5663",
+    "symbol": "PSEN1",
+    "description": "presenilin 1",
+    "chromosome": "14",
+    "map_location": "14q24.2",
+    "aliases": "ACNINV3, AD3, CMD1U, FAD, PS-1, PS1, PSNL1, S182",
+    "mim": [
+      "104311"
+    ],
+    "summary": "Alzheimer's disease (AD) patients with an inherited form of the disease carry mutations in the presenilin proteins (PSEN1; PSEN2) or in the amyloid precursor protein (APP). These disease-linked mutations result in increased production of the longer form of amyloid-beta (main component of amyloid deposits found in AD brains). Presenilins are postulated to regulate APP processing through their effects on gamma-secretase, an enzyme that cleaves APP. Also, it is thought that the presenilins are involved in the cleavage of the Notch receptor, such that they either directly regulate gamma-secretase activity or themselves are protease enzymes. Several alternatively spliced transcript variants encoding different isoforms have been identified for this gene, the full-length nature of only some have been determined. [provided by RefSeq, Aug 2008]"
+  },
+  "5664": {
+    "gene_id": "5664",
+    "symbol": "PSEN2",
+    "description": "presenilin 2",
+    "chromosome": "1",
+    "map_location": "1q42.13",
+    "aliases": "AD3L, AD4, CMD1V, PS2, STM2",
+    "mim": [
+      "600759"
+    ],
+    "summary": "Alzheimer's disease (AD) patients with an inherited form of the disease carry mutations in the presenilin proteins (PSEN1 or PSEN2) or the amyloid precursor protein (APP). These disease-linked mutations result in increased production of the longer form of amyloid-beta (main component of amyloid deposits found in AD brains). Presenilins are postulated to regulate APP processing through their effects on gamma-secretase, an enzyme that cleaves APP. Also, it is thought that the presenilins are involved in the cleavage of the Notch receptor such that, they either directly regulate gamma-secretase activity, or themselves act are protease enzymes. Two alternatively spliced transcript variants encoding different isoforms of PSEN2 have been identified. [provided by RefSeq, Jul 2008]"
+  },
+  "5728": {
+    "gene_id": "5728",
+    "symbol": "PTEN",
+    "description": "phosphatase and tensin homolog",
+    "chromosome": "10",
+    "map_location": "10q23.31",
+    "aliases": "10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, PTENgama, TEP1",
+    "mim": [
+      "601728"
+    ],
+    "summary": "This gene was identified as a tumor suppressor that is mutated in a large number of cancers at high frequency. The protein encoded by this gene is a phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase. It contains a tensin like domain as well as a catalytic domain similar to that of the dual specificity protein tyrosine phosphatases. Unlike most of the protein tyrosine phosphatases, this protein preferentially dephosphorylates phosphoinositide substrates. It negatively regulates intracellular levels of phosphatidylinositol-3,4,5-trisphosphate in cells and functions as a tumor suppressor by negatively regulating AKT/PKB signaling pathway. The use of a non-canonical (CUG) upstream initiation site produces a longer isoform that initiates translation with a leucine, and is thought to be preferentially associated with the mitochondrial inner membrane. This longer isoform may help regulate energy metabolism in the mitochondria. A pseudogene of this gene is found on chromosome 9. Alternative splicing and the use of multiple translation start codons results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Feb 2015]"
+  },
+  "6622": {
+    "gene_id": "6622",
+    "symbol": "SNCA",
+    "description": "synuclein alpha",
+    "chromosome": "4",
+    "map_location": "4q22.1",
+    "aliases": "NACP, PARK1, PARK4, PD1",
+    "mim": [
+      "163890"
+    ],
+    "summary": "Alpha-synuclein is a member of the synuclein family, which also includes beta- and gamma-synuclein. Synucleins are abundantly expressed in the brain and alpha- and beta-synuclein inhibit phospholipase D2 selectively. SNCA may serve to integrate presynaptic signaling and membrane trafficking. Defects in SNCA have been implicated in the pathogenesis of Parkinson disease. SNCA peptides are a major component of amyloid plaques in the brains of patients with Alzheimer's disease. Alternatively spliced transcripts encoding different isoforms have been identified for this gene. [provided by RefSeq, Feb 2016]"
+  },
+  "6833": {
+    "gene_id": "6833",
+    "symbol": "ABCC8",
+    "description": "ATP binding cassette subfamily C member 8",
+    "chromosome": "11",
+    "map_location": "11p15.1",
+    "aliases": "ABC36, HHF1, HI, HRINS, MODY12, MRP8, PHHI, PNDM3, SUR, SUR1, SUR1delta2, TNDM2",
+    "mim": [
+      "600509"
+    ],
+    "summary": "The protein encoded by this gene is a member of the superfamily of ATP-binding cassette (ABC) transporters. ABC proteins transport various molecules across extra- and intra-cellular membranes. ABC genes are divided into seven distinct subfamilies (ABC1, MDR/TAP, MRP, ALD, OABP, GCN20, White). This protein is a member of the MRP subfamily which is involved in multi-drug resistance. This protein functions as a modulator of ATP-sensitive potassium channels and insulin release. Mutations in the ABCC8 gene and deficiencies in the encoded protein have been observed in patients with hyperinsulinemic hypoglycemia of infancy, an autosomal recessive disorder of unregulated and high insulin secretion. Mutations have also been associated with non-insulin-dependent diabetes mellitus type II, an autosomal dominant disease of defective insulin secretion. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Jul 2020]"
+  },
+  "6927": {
+    "gene_id": "6927",
+    "symbol": "HNF1A",
+    "description": "HNF1 homeobox A",
+    "chromosome": "12",
+    "map_location": "12q24.31",
+    "aliases": "HNF-1-alpha, HNF-1A, HNF1, HNF1alpha, IDDM20, LFB1, MODY3, TCF-1, TCF1",
+    "mim": [
+      "142410"
+    ],
+    "summary": "The protein encoded by this gene is a transcription factor required for the expression of several liver-specific genes. The encoded protein functions as a homodimer and binds to the inverted palindrome 5'-GTTAATNATTAAC-3'. Defects in this gene are a cause of maturity onset diabetes of the young type 3 (MODY3) and also can result in the appearance of hepatic adenomas. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Apr 2015]"
+  },
+  "6934": {
+    "gene_id": "6934",
+    "symbol": "TCF7L2",
+    "description": "transcription factor 7 like 2",
+    "chromosome": "10",
+    "map_location": "10q25.2-q25.3",
+    "aliases": "TCF-4, TCF4",
+    "mim": [
+      "602228"
+    ],
+    "summary": "This gene encodes a high mobility group (HMG) box-containing transcription factor that plays a key role in the Wnt signaling pathway. The protein has been implicated in blood glucose homeostasis. Genetic variants of this gene are associated with increased risk of type 2 diabetes. Several transcript variants encoding multiple different isoforms have been found for this gene.[provided by RefSeq, Oct 2010]"
+  },
+  "7124": {
+    "gene_id": "7124",
+    "symbol": "TNF",
+    "description": "tumor necrosis factor",
+    "chromosome": "6",
+    "map_location": "6p21.33",
+    "aliases": "DIF, IMD127, TNF-alpha, TNFA, TNFSF2, TNLG1F",
+    "mim": [
+      "191160"
+    ],
+    "summary": "This gene encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. This cytokine is mainly secreted by macrophages. It can bind to, and thus functions through its receptors TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. This cytokine is involved in the regulation of a wide spectrum of biological processes including cell proliferation, differentiation, apoptosis, lipid metabolism, and coagulation. This cytokine has been implicated in a variety of diseases, including autoimmune diseases, insulin resistance, psoriasis, rheumatoid arthritis ankylosing spondylitis, tuberculosis, autosomal dominant polycystic kidney disease, and cancer. Mutations in this gene affect susceptibility to cerebral malaria, septic shock, and Alzheimer disease. Knockout studies in mice also suggested the neuroprotective function of this cytokine. [provided by RefSeq, Aug 2020]"
+  },
+  "7157": {
+    "gene_id": "7157",
+    "symbol": "TP53",
+    "description": "tumor protein p53",
+    "chromosome": "17",
+    "map_location": "17p13.1",
+    "aliases": "BCC7, BMFS5, LFS1, P53, TRP53",
+    "mim": [
+      "191170"
+    ],
+    "summary": "This gene encodes a tumor suppressor protein containing transcriptional activation, DNA binding, and oligomerization domains. The encoded protein responds to diverse cellular stresses to regulate expression of target genes, thereby inducing cell cycle arrest, apoptosis, senescence, DNA repair, or changes in metabolism. Mutations in this gene are associated with a variety of human cancers, including hereditary cancers such as Li-Fraumeni syndrome. Alternative splicing of this gene and the use of alternate promoters result in multiple transcript variants and isoforms. Additional isoforms have also been shown to result from the use of alternate translation initiation codons from identical transcript variants (PMIDs: 12032546, 20937277). [provided by RefSeq, Dec 2016]"
+  },
+  "11200": {
+    "gene_id": "11200",
+    "symbol": "CHEK2",
+    "description": "checkpoint kinase 2",
+    "chromosome": "22",
+    "map_location": "22q12.1",
+    "aliases": "CDS1, CHK2, HuCds1, LFS2, PP1425, RAD53, TPDS4, hCds1",
+    "mim": [
+      "604373"
+    ],
+    "summary": "In response to DNA damage and replication blocks, cell cycle progression is halted through the control of critical cell cycle regulators. The protein encoded by this gene is a cell cycle checkpoint regulator and putative tumor suppressor. It contains a forkhead-associated protein interaction domain essential for activation in response to DNA damage and is rapidly phosphorylated in response to replication blocks and DNA damage. When activated, the encoded protein is known to inhibit CDC25C phosphatase, preventing entry into mitosis, and has been shown to stabilize the tumor suppressor protein p53, leading to cell cycle arrest in G1. In addition, this protein interacts with and phosphorylates BRCA1, allowing BRCA1 to restore survival after DNA damage. Mutations in this gene have been linked with Li-Fraumeni syndrome, a highly penetrant familial cancer phenotype usually associated with inherited mutations in TP53. Also, mutations in this gene are thought to confer a predisposition to sarcomas, breast cancer, and brain tumors. This nuclear protein is a member of the CDS1 subfamily of serine/threonine protein kinases. Several transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Apr 2012]"
+  },
+  "11315": {
+    "gene_id": "11315",
+    "symbol": "PARK7",
+    "description": "Parkinsonism associated deglycase",
+    "chromosome": "1",
+    "map_location": "1p36.23",
+    "aliases": "DJ-1, DJ1, GATD2, HEL-S-67p",
+    "mim": [
+      "602533"
+    ],
+    "summary": "The product of this gene belongs to the peptidase C56 family of proteins. It acts as a positive regulator of androgen receptor-dependent transcription. It may also function as a redox-sensitive chaperone, as a sensor for oxidative stress, and it apparently protects neurons against oxidative stress and cell death. Defects in this gene are the cause of autosomal recessive early-onset Parkinson disease 7. Two transcript variants encoding the same protein have been identified for this gene. [provided by RefSeq, Jul 2008]"
+  },
+  "23621": {
+    "gene_id": "23621",
+    "symbol": "BACE1",
+    "description": "beta-secretase 1",
+    "chromosome": "11",
+    "map_location": "11q23.3",
+    "aliases": "ASP2, BACE, HSPC104",
+    "mim": [
+      "604252"
+    ],
+    "summary": "This gene encodes a member of the peptidase A1 family of aspartic proteases. Alternative splicing results in multiple transcript variants, at least one of which encodes a preproprotein that is proteolytically processed to generate the mature protease. This transmembrane protease catalyzes the first step in the formation of amyloid beta peptide from amyloid precursor protein. Amyloid beta peptides are the main constituent of amyloid beta plaques, which accumulate in the brains of human Alzheimer's disease patients. [provided by RefSeq, Nov 2015]"
+  },
+  "54209": {
+    "gene_id": "54209",
+    "symbol": "TREM2",
+    "description": "triggering receptor expressed on myeloid cells 2",
+    "chromosome": "6",
+    "map_location": "6p21.1",
+    "aliases": "AD17, PLOSL2, TREM-2, Trem2a, Trem2b, Trem2c",
+    "mim": [
+      "605086"
+    ],
+    "summary": "This gene encodes a membrane protein that forms a receptor signaling complex with the TYRO protein tyrosine kinase binding protein. The encoded protein functions in immune response and may be involved in chronic inflammation by triggering the production of constitutive inflammatory cytokines. Defects in this gene are a cause of polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy (PLOSL). Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Nov 2012]"
+  },
+  "65018": {
+    "gene_id": "65018",
+    "symbol": "PINK1",
+    "description": "PTEN induced kinase 1",
+    "chromosome": "1",
+    "map_location": "1p36.12",
+    "aliases": "BRPK, PARK6",
+    "mim": [
+      "608309"
+    ],
+    "summary": "This gene encodes a serine/threonine protein kinase that localizes to mitochondria. It is thought to protect cells from stress-induced mitochondrial dysfunction. Mutations in this gene cause one form of autosomal recessive early-onset Parkinson disease. [provided by RefSeq, Jul 2008]"
+  },
+  "120892": {
+    "gene_id": "120892",
+    "symbol": "LRRK2",
+    "description": "leucine rich repeat kinase 2",
+    "chromosome": "12",
+    "map_location": "12q12",
+    "aliases": "AURA17, DARDARIN, PARK8, RIPK7, ROCO2",
+    "mim": [
+      "609007"
+    ],
+    "summary": "This gene is a member of the leucine-rich repeat kinase family and encodes a protein with an ankryin repeat region, a leucine-rich repeat (LRR) domain, a kinase domain, a DFG-like motif, a RAS domain, a GTPase domain, a MLK-like domain, and a WD40 domain. The protein is present largely in the cytoplasm but also associates with the mitochondrial outer membrane. Mutations in this gene have been associated with Parkinson disease-8. [provided by RefSeq, Jul 2008]"
+  },
+  "255738": {
+    "gene_id": "255738",
+    "symbol": "PCSK9",
+    "description": "proprotein convertase subtilisin/kexin type 9",
+    "chromosome": "1",
+    "map_location": "1p32.3",
+    "aliases": "FH3, FHCL3, HCHOLA3, LDLCQ1, NARC-1, NARC1, PC9",
+    "mim": [
+      "607786"
+    ],
+    "summary": "This gene encodes a member of the subtilisin-like proprotein convertase family, which includes proteases that process protein and peptide precursors trafficking through regulated or constitutive branches of the secretory pathway. The encoded protein undergoes an autocatalytic processing event with its prosegment in the ER and is constitutively secreted as an inactive protease into the extracellular matrix and trans-Golgi network. It is expressed in liver, intestine and kidney tissues and escorts specific receptors for lysosomal degradation. It plays a role in cholesterol and fatty acid metabolism. Mutations in this gene have been associated with autosomal dominant familial hypercholesterolemia. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Feb 2014]"
+  }
+}

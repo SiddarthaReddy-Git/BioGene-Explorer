@@ -1,0 +1,36 @@
+source_gene_id,source_symbol,target_gene_id,target_symbol,interaction_type,evidence_source,confidence_score,reference_pmid
+672,BRCA1,7157,TP53,Physical Protein Complex / Co-activation,BioGRID / KEGG,0.96,9389578
+672,BRCA1,675,BRCA2,Homologous Recombination Complex,BioGRID / Reactome,0.98,9751065
+672,BRCA1,472,ATM,Phosphorylation / DNA Damage Checkpoint,KEGG / BioGRID,0.97,10550055
+472,ATM,11200,CHEK2,Kinase Activation / Phosphorylation,KEGG / Reactome,0.98,10713716
+472,ATM,7157,TP53,Ser15 Phosphorylation / Stabilization,KEGG / BioGRID,0.99,9733514
+11200,CHEK2,7157,TP53,Checkpoint Kinase Phosphorylation,KEGG / Reactome,0.94,10673501
+5290,PIK3CA,207,AKT1,PIP3-Mediated Kinase Activation,KEGG / Reactome,0.99,7923370
+5728,PTEN,5290,PIK3CA,Antagonistic Lipid Phosphatase Signaling,KEGG / BioGRID,0.95,9736735
+5728,PTEN,7157,TP53,Transcriptional & Protein Stabilization Loop,BioGRID / STRING,0.90,11390669
+2064,ERBB2,5290,PIK3CA,Receptor Tyrosine Kinase PI3K Recruitment,KEGG / Reactome,0.94,11719471
+2064,ERBB2,207,AKT1,ErbB-AKT Survival Signaling,KEGG / BioGRID,0.92,11044390
+2099,ESR1,207,AKT1,Kinase Phosphorylation of Estrogen Receptor,BioGRID / KEGG,0.88,11303017
+7157,TP53,207,AKT1,MDM2-Mediated Survival / Apoptosis Crosstalk,KEGG / STRING,0.87,11498591
+3630,INS,3643,INSR,Hormone-Receptor Ligand Binding,KEGG / Reactome,0.99,3510393
+3643,INSR,3667,IRS1,Tyrosine Phosphorylation / Signal Docking,KEGG / BioGRID,0.98,1641975
+3667,IRS1,5290,PIK3CA,SH2-Domain p85 PI3K Recruitment,KEGG / BioGRID,0.96,8383853
+3767,KCNJ11,6833,ABCC8,K-ATP Channel Heterooctameric Complex,BioGRID / OMIM,0.99,9092483
+351,APP,5663,PSEN1,Gamma-Secretase Substrate Complex,BioGRID / KEGG,0.97,9438396
+351,APP,5664,PSEN2,Gamma-Secretase Catalytic Processing,KEGG / Reactome,0.93,8895459
+351,APP,23621,BACE1,Beta-Site Proteolytic Cleavage,KEGG / BioGRID,0.98,10531356
+351,APP,348,APOE,Amyloid-Beta Binding & Clearance,BioGRID / STRING,0.91,8433981
+5663,PSEN1,4137,MAPT,PI3K/GSK3-Mediated Tau Phosphorylation,KEGG / BioGRID,0.86,10075680
+2932,GSK3B,4137,MAPT,Direct Tau Ser/Thr Phosphorylation,KEGG / Reactome,0.97,8392499
+207,AKT1,2932,GSK3B,Inhibitory Ser9 Phosphorylation,KEGG / BioGRID,0.98,7566148
+348,APOE,3949,LDLR,Apolipoprotein-Receptor Endocytosis,KEGG / BioGRID,0.98,6309457
+3949,LDLR,255738,PCSK9,Receptor Binding & Lysosomal Degradation,BioGRID / Reactome,0.97,17267617
+3949,LDLR,338,APOB,LDL Particle Receptor Binding,KEGG / BioGRID,0.99,3182383
+338,APOB,348,APOE,Lipoprotein Particle Co-Assembly,Reactome / STRING,0.92,8690722
+3569,IL6,7124,TNF,Pro-Inflammatory Cytokine Crosstalk,KEGG / STRING,0.91,2785880
+5468,PPARG,7124,TNF,Anti-Inflammatory Transcriptional Antagonism,KEGG / STRING,0.85,10777510
+6622,SNCA,120892,LRRK2,Pathogenic Kinase & Aggregation Crosstalk,BioGRID / STRING,0.88,18617534
+5071,PRKN,65018,PINK1,PINK1-Parkin Mitochondrial Quality Control,KEGG / BioGRID,0.99,20126261
+5071,PRKN,6622,SNCA,Ubiquitin-Proteasome Substrate Interaction,BioGRID / KEGG,0.86,11431693
+65018,PINK1,11315,PARK7,Mitochondrial Oxidative Stress Complex,BioGRID / STRING,0.87,18340033
+6622,SNCA,4137,MAPT,Co-Aggregation & Tau Cross-Seeding,BioGRID / STRING,0.89,12746458

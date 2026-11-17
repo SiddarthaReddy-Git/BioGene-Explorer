@@ -1,0 +1,6 @@
+{
+  "name": "BioGene Explorer",
+  "description": "Bioinformatics-based disease-gene network visualization and computational graph analysis platform powered by public NCBI, OMIM, and DisGeNET data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

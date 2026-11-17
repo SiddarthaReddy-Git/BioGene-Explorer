@@ -1,0 +1,46 @@
+disease_id,disease_name,disease_category,doid,umls_cui,gene_id,gene_symbol,association_type,evidence_source,score,reference_pmid
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,7157,TP53,Somatic & Germline Susceptibility,DisGeNET / OMIM / NCBI,0.95,12032546
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,672,BRCA1,Mendelian High-Penetrance,DisGeNET / OMIM / ClinVar,0.98,7545954
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,675,BRCA2,Mendelian High-Penetrance,DisGeNET / OMIM / ClinVar,0.97,8589730
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,2064,ERBB2,Somatic Amplification / Signaling,DisGeNET / KEGG / NCBI,0.92,2470938
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,5290,PIK3CA,Somatic Driver Mutation,DisGeNET / COSMIC / NCBI,0.89,15016963
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,5728,PTEN,Tumor Suppressor Loss,DisGeNET / OMIM,0.86,9090379
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,207,AKT1,PI3K/AKT Pathway Signaling,DisGeNET / KEGG,0.81,17611497
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,472,ATM,DNA Damage Repair Susceptibility,DisGeNET / OMIM / ClinVar,0.88,16832357
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,11200,CHEK2,Moderate-Penetrance Susceptibility,DisGeNET / OMIM,0.84,11967536
+DIS_BRCA,Breast Carcinoma,Oncology,DOID:1612,C0006142,2099,ESR1,Hormone Receptor Signaling,DisGeNET / NCBI,0.87,18362889
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,3630,INS,Beta-Cell Hormone Regulation,DisGeNET / OMIM / NCBI,0.91,17463248
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,3643,INSR,Insulin Receptor Signaling,DisGeNET / OMIM,0.89,2836295
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,3667,IRS1,Insulin Resistance Signaling,DisGeNET / GWAS Catalog,0.85,19734900
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,5468,PPARG,Nuclear Receptor / Adipogenesis,DisGeNET / OMIM / GWAS,0.93,10973253
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,6934,TCF7L2,GWAS Risk Locus / Wnt Signaling,DisGeNET / GWAS Catalog,0.96,16415884
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,3767,KCNJ11,Potassium Channel Beta-Cell Secretion,DisGeNET / OMIM,0.88,12829639
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,6833,ABCC8,Sulfonylurea Receptor / Secretion,DisGeNET / OMIM,0.84,15131144
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,6927,HNF1A,MODY3 / Transcriptional Susceptibility,DisGeNET / OMIM,0.87,8944020
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,207,AKT1,Insulin-Mediated Glucose Uptake,DisGeNET / KEGG,0.78,11375427
+DIS_T2DM,Type 2 Diabetes Mellitus,Metabolic & Endocrine,DOID:9352,C0011860,5290,PIK3CA,PI3K Insulin Signal Transduction,KEGG / DisGeNET,0.74,10480910
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,351,APP,Amyloid Precursor Processing,DisGeNET / OMIM / NCBI,0.97,1903532
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,348,APOE,Major Genetic Risk Allele (APOE e4),DisGeNET / OMIM / GWAS,0.98,8346443
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,5663,PSEN1,Familial Early-Onset Gamma-Secretase,DisGeNET / OMIM / ClinVar,0.96,7596406
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,5664,PSEN2,Familial Early-Onset Gamma-Secretase,DisGeNET / OMIM,0.91,7638621
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,4137,MAPT,Tau Neurofibrillary Pathology,DisGeNET / KEGG / NCBI,0.89,18414502
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,54209,TREM2,Microglial Immune Susceptibility,DisGeNET / GWAS Catalog,0.86,23150908
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,1191,CLU,GWAS Lipid / Chaperone Risk Locus,DisGeNET / GWAS Catalog,0.82,19734902
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,23621,BACE1,Beta-Secretase Amyloid Cleavage,DisGeNET / KEGG,0.85,10531356
+DIS_ALZ,Alzheimer's Disease,Neurodegenerative,DOID:10652,C0002395,2932,GSK3B,Tau Kinase Pathway Regulation,DisGeNET / KEGG,0.79,15165824
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,3949,LDLR,Familial Hypercholesterolemia / LDL Clearance,DisGeNET / OMIM / ClinVar,0.95,2862467
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,338,APOB,Apolipoprotein LDL Ligand Binding,DisGeNET / OMIM,0.92,2689054
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,255738,PCSK9,LDLR Degradation / Lipid Metabolism,DisGeNET / OMIM / GWAS,0.94,12730697
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,348,APOE,Lipoprotein Remnant Clearance,DisGeNET / GWAS Catalog,0.90,17474124
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,4846,NOS3,Endothelial Nitric Oxide Vasodilation,DisGeNET / NCBI,0.83,9566651
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,1636,ACE,Renin-Angiotensin Vascular Tone,DisGeNET / NCBI,0.81,1318886
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,3569,IL6,Vascular Inflammatory Cytokine,DisGeNET / GWAS Catalog,0.84,22421339
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,7124,TNF,Pro-Inflammatory Atherosclerosis Signaling,DisGeNET / NCBI,0.80,11520728
+DIS_CAD,Coronary Artery Disease,Cardiovascular,DOID:3393,C1956346,5468,PPARG,Metabolic Vascular Inflammation,DisGeNET / KEGG,0.76,11980702
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,6622,SNCA,Alpha-Synuclein Aggregation (PARK1),DisGeNET / OMIM / ClinVar,0.97,9197268
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,120892,LRRK2,Autosomal Dominant Kinase (PARK8),DisGeNET / OMIM / ClinVar,0.96,15541309
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,5071,PRKN,E3 Ubiquitin Ligase / Mitophagy (PARK2),DisGeNET / OMIM,0.94,9560156
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,65018,PINK1,Mitochondrial Kinase (PARK6),DisGeNET / OMIM,0.92,15087508
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,11315,PARK7,Oxidative Stress Chaperone (DJ-1),DisGeNET / OMIM,0.89,12446870
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,2629,GBA1,Lysosomal Glucocerebrosidase Risk,DisGeNET / ClinVar / GWAS,0.91,19846850
+DIS_PD,Parkinson's Disease,Neurodegenerative,DOID:14330,C0030567,4137,MAPT,GWAS Tau Haplotype Risk Locus,DisGeNET / GWAS Catalog,0.85,19915575
